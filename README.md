@@ -2,6 +2,7 @@
 
 [Переглянути](https://knuopen.github.io/map/).
 
+Карта надана сервісом OpenStreetMap.
 
 
 
